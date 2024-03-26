@@ -1,10 +1,10 @@
 # TASK 12 - MARIA LAWRENCE 
 
 # List of menu
-menu_list = ['houmous', 'aubergine dip', 'pitta', 'falafel', 'kofta']
+menu_list = ['tara', 'aubergine dip', 'pitta', 'falafel', 'kofta']
 
 # Dictorionary of stock
-stock = {'houmous': 2,
+stock = {'tara': 2,
               'aubergine dip': 4,
               'pitta': 8, 
               'falafel': 3,
@@ -12,7 +12,7 @@ stock = {'houmous': 2,
               }
 
 # Dictionary of price
-price = {'houmous': 2.20,
+price = {'tara': 2.20,
               'aubergine dip': 3.10,
               'pitta': 0.50, 
               'falafel': 5.0,
