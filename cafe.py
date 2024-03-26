@@ -4,11 +4,12 @@
 menu_list = ['tara', 'aubergine dip', 'pitta', 'falafel', 'kofta']
 
 # Dictorionary of stock
-stock = {'tara': 2,
-              'aubergine dip': 4,
-              'pitta': 8, 
-              'falafel': 3,
-              'kofta': 1
+
+stock = {'tara': 4,
+              'aubergine dip': 8,
+              'pitta': 16, 
+              'falafel': 6,
+              'kofta': 2
               }
 
 # Dictionary of price
