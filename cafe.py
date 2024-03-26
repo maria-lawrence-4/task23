@@ -4,6 +4,7 @@
 menu_list = ['tara', 'aubergine dip', 'pitta', 'falafel', 'kofta']
 
 # Dictorionary of stock
+
 stock = {'tara': 4,
               'aubergine dip': 8,
               'pitta': 16, 
